@@ -9,6 +9,7 @@ public class AlphabetTriangle1 {
 		int row; 
 		int col;
 		
+		System.out.println("This is simple star pattern program ");
 		char ch='A';
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter Numbers of lines");
